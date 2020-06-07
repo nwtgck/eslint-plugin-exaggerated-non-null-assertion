@@ -1,0 +1,15 @@
+{
+  "name": "eslint-plugin-exaggerated-non-null-assertion",
+  "version": "0.1.0-SNAPSHOT",
+  "description": "Exaggerated Non-Null Assertion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nwtgck/eslint-plugin-exaggerated-non-null-assertion"
+  },
+  "author": "Ryo Ota <nwtgck@nwtgck.org> (https://github.com/nwtgck)",
+  "license": "MIT"
+}
