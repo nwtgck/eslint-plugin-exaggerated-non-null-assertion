@@ -16,7 +16,7 @@ module.exports = {
                 return;
               }
             }
-            context.report(node, 'Non-null assersion is too less');
+            context.report(node, 'Non-null assertion is too less');
           },
         };
       }
